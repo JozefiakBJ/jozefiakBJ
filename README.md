@@ -1,3 +1,4 @@
+
 <h1><p align="center">Hello, I am Bartek Józefiak! </h1></a></p>
 
 <p align="center" ><img 
@@ -12,12 +13,10 @@
 
 - 🔭 I'm working on some secret stuff.
 - :snake: I’m currently learning Python and SQL.
-- :performing_arts: I’m working on Front-end project.
 - 💬 Ask me about Java, Spring Boot, Any tech-related stuff.
 ## Languages I use:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,5 +35,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## My portfolio projects
-:atm: https://github.com/jozefiakBJ/JavaATM-SQL
+:atm: https://github.com/jozefiakBJ/JavaATM-SQL  - Pure JavaSE atm simulator
+:atm: https://github.com/jozefiakBJ/exchange  - Spring Boot rest api Currency exchange
+
 
