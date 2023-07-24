@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Bartek👨‍💻
 
-I am a System Analyst at Data Warehoude and Flutter enthusiast. I am passionate about technologies and love to learn new things.
+I am a System Analyst at Data Warehouse and Flutter enthusiast. I am passionate about technologies and love to learn new things.
 
 ### 🔭 Have a look at my team site: https://www.detype.app/ 
 
